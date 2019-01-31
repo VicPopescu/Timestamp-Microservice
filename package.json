@@ -1,6 +1,6 @@
 {
   "author": "Victor Popescu",
-	"name": "fcc-api-projects-boilerplate",
+	"name": "fcc-timestamp-microservice",
 	"version": "0.0.1",
 	"description": "An FCC Backend Challenge",
 	"main": "server.js",
@@ -12,7 +12,7 @@
 		"cors": "^2.8.0"
 	},
 	"engines": {
-		"node": "4.4.5"
+		"node": "10"
 	},
 	"repository": {
 		"type": "git",
